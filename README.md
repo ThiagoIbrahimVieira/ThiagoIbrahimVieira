@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Global-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" />
   <br/><br/>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/thiagoibrahim"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://developer-portfolio-liard-six-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thiago-ibrahim-branco-nardo-vieira-621443423/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:thiagoibrahimvieira@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/><br/>
