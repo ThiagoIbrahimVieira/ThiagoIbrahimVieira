@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Global-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" />
   <br/><br/>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/thiagoibrahim"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:thiagoibrahimvieira@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8B5CF6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github&label=Followers&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=flat-square&logo=github&label=Stars&color=6D28D9" />
+  <img src="https://komarev.com/ghpvc/?username=ThiagoIbrahimVieira&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ThiagoIbrahimVieira?style=flat-square&logo=github&label=Followers&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/ThiagoIbrahimVieira?style=flat-square&logo=github&label=Stars&color=6D28D9" />
 </div>
 
 ---
@@ -254,13 +254,13 @@ Full-stack engineer working on customer-facing web applications and internal too
 <div align="center">
   <h2>💻 Coding Profiles</h2>
   <br/>
-  <a href="https://leetcode.com/u/yourusername/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" /></a>
+  <a href="https://leetcode.com/u/ThiagoIbrahimVieira/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" /></a>
   &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/yourusername"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/yourusername"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
+  <a href="https://www.hackerrank.com/profile/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
   &nbsp;
-  <a href="https://www.codechef.com/users/yourusername"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+  <a href="https://www.codechef.com/users/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
 </div>
 
 ---
@@ -269,10 +269,10 @@ Full-stack engineer working on customer-facing web applications and internal too
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoIbrahimVieira&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoIbrahimVieira&theme=radical&hide_border=true&background=0D1117" height="180" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIbrahimVieira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
 </div>
 
 ---
@@ -281,7 +281,7 @@ Full-stack engineer working on customer-facing web applications and internal too
 <div align="center">
   <h2>🏅 GitHub Trophies</h2>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoIbrahimVieira&theme=radical&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -290,7 +290,7 @@ Full-stack engineer working on customer-facing web applications and internal too
 <div align="center">
   <h2>📈 Contribution Activity</h2>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=7C3AED" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoIbrahimVieira&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=7C3AED" width="95%" />
 </div>
 
 ---
@@ -299,7 +299,7 @@ Full-stack engineer working on customer-facing web applications and internal too
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <br/>
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ThiagoIbrahimVieira/ThiagoIbrahimVieira/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -343,7 +343,7 @@ open_to:
   &nbsp;
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ThiagoIbrahimVieira"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
