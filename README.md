@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=Estudante+de+TI;Full+Stack+Developer;Python+%7C+Java+%7C+TypeScript;16+anos+%7C+Construindo+o+futuro" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Estudante+de+TI;Full+Stack+Developer;Python+%7C+Java+%7C+TypeScript+%7C+C%2B%2B+%7C+Go;JavaScript+%7C+SQL+%7C+HTML%2FCSS+%7C+C%23;16+anos+%7C+Construindo+o+futuro" alt="Typing SVG">
   </a>
 </p>
 
@@ -66,7 +66,7 @@ engineering:
     - Product Engineering Mindset
 
 current_mission:
-  learning: Python, Java, TypeScript, Full Stack
+  learning: Python, Java, JavaScript, TypeScript, C, C++, C#, Go, SQL, HTML/CSS, Full Stack
   building: Projetos que resolvem problemas reais
   exploring: Inteligência Artificial e Machine Learning
   open_to: Estágios, colaborações open source, projetos desafiadores
@@ -89,12 +89,12 @@ current_mission:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css,react,nodejs,spring,flask,django,mysql,postgres,mongodb,docker,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cpp,cs,go,rust,kotlin,swift,php,ruby,scala,dart,html,css,react,nodejs,spring,flask,django,mysql,postgres,mongodb,docker,git,github,linux,vscode,postman" />
 </p>
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-5B21B6?style=flat-square&logo=javascript&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-4C1D95?style=flat-square&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-8B5CF6?style=flat-square&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-6D28D9?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-5B21B6?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-4C1D95?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-7C3AED?style=flat-square&logo=swift&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-4C1D95?style=flat-square&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-8B5CF6?style=flat-square&logo=ruby&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-6D28D9?style=flat-square&logo=dart&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-5B21B6?style=flat-square&logo=scala&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5B21B6?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-8B5CF6?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-5B21B6?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-6D28D9?style=flat-square&logo=mongodb&logoColor=white) |
 | **Cloud, DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-5B21B6?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=vscode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=flat-square&logo=postman&logoColor=white) |
