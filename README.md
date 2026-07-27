@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
-  <a href="https://thiagoibrahimvieira.github.io" target="_blank">
+  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ThiagoIbrahimVieira" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-ibrahim-branco-nardo-vieira-621443423/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thiagoibrahimvieira@gmail.com">
@@ -344,13 +344,13 @@ open_to:
   <a href="mailto:thiagoibrahimvieira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ThiagoIbrahimVieira@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ThiagoIbrahimVieira" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-ibrahim-branco-nardo-vieira-621443423/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ThiagoIbrahimVieira-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ThiagoIbrahimVieira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ThiagoIbrahimVieira-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://thiagoibrahimvieira.github.io" target="_blank">
+  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-thiagoibrahimvieira.dev-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
