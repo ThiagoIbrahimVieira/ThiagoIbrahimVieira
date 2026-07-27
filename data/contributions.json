@@ -1828,11 +1828,11 @@
     },
     {
       "date": "2026-07-27",
-      "level": 2,
+      "level": 3,
       "active": true
     }
   ],
-  "total": 103,
+  "total": 105,
   "current_streak": 2,
   "longest_streak": 4,
   "best_day": {
