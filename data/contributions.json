@@ -1813,7 +1813,7 @@
     },
     {
       "date": "2026-07-24",
-      "level": 3,
+      "level": 2,
       "active": true
     },
     {
@@ -1832,7 +1832,7 @@
       "active": true
     }
   ],
-  "total": 101,
+  "total": 103,
   "current_streak": 2,
   "longest_streak": 4,
   "best_day": {
