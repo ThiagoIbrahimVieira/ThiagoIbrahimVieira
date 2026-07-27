@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Scripts outputs (intermediate only)
+scripts/source-prepped.png
+# Keep these tracked:
+# *.svg
+# data/contributions.json
+
+# IDE
+.vscode/
+.idea/
+*.swp

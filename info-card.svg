@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 260"
+     width="490" height="260">
+  <rect width="100%" height="100%" rx="6" fill="#161b22" />
+  <rect x="0" y="0" width="490" height="28" rx="6" fill="#21262d" />
+  <circle cx="12" cy="14" r="5" fill="#ff5f57" />
+  <circle cx="28" cy="14" r="5" fill="#ffbd2e" />
+  <circle cx="44" cy="14" r="5" fill="#28ca42" />
+  <text x="245" y="18" text-anchor="middle"
+        fill="#58a6ff" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="12">~/thiago@github $ whoami</text>
+<g opacity="0">
+  <text x="18" y="50" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">OS</text>
+  <text x="98" y="50" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Windows 11</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="0ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="72" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Host</text>
+  <text x="98" y="72" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">ThiagoIbrahimVieira</text>
+  <animate attributeName="opacity" from="0" to="1" begin="120ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="120ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="94" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Kernel</text>
+  <text x="98" y="94" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">10.0.26100</text>
+  <animate attributeName="opacity" from="0" to="1" begin="240ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="240ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="116" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Shell</text>
+  <text x="98" y="116" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">PowerShell 7</text>
+  <animate attributeName="opacity" from="0" to="1" begin="360ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="360ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="160" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Role</text>
+  <text x="98" y="160" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Estudante de TI</text>
+  <animate attributeName="opacity" from="0" to="1" begin="600ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="600ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="182" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Stack</text>
+  <text x="98" y="182" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Python, Java, TypeScript, Full Stack</text>
+  <animate attributeName="opacity" from="0" to="1" begin="720ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="720ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="226" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Highlights</text>
+  <text x="98" y="226" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">Programador de 16 anos</text>
+  <animate attributeName="opacity" from="0" to="1" begin="960ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="960ms" dur="300ms" fill="freeze"/>
+ </g>
+<g opacity="0">
+  <text x="18" y="248" fill="#8b949e" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13"></text>
+  <text x="98" y="248" fill="#e6edf3" font-family="monospace,JetBrains Mono,Fira Code,Consolas" font-size="13">  construindo springboards pro futuro</text>
+  <animate attributeName="opacity" from="0" to="1" begin="1080ms" dur="300ms" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="20,0" to="0,0"
+    begin="1080ms" dur="300ms" fill="freeze"/>
+ </g>
+</svg>

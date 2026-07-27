@@ -1,0 +1,534 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750.0 689"
+     width="750.0" height="689">
+  <rect width="100%" height="100%" fill="#0d1117" />
+  <g transform="translate(0,0)">
+   <clipPath id="c0">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="0ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c0)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,13)">
+   <clipPath id="c1">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="45ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c1)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,26)">
+   <clipPath id="c2">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="90ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c2)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,39)">
+   <clipPath id="c3">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="135ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c3)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@%sssscsccs#%%@@@@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,52)">
+   <clipPath id="c4">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="180ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c4)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%sc*=:::-:``:::--+css#@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,65)">
+   <clipPath id="c5">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="225ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c5)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%s*=:`:::::`..::`.::..`:::+s#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,78)">
+   <clipPath id="c6">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="270ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c6)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%*-`::::.`...`. `:. .``......```+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,91)">
+   <clipPath id="c7">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="315ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c7)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#+-```.`::. ..``....  .......``. .=%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,104)">
+   <clipPath id="c8">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="360ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c8)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#=--::```::````:----==--:``..  . . :%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,117)">
+   <clipPath id="c9">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="405ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c9)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#-::`:``::-=+csscssssssc**+=-:.   .+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,130)">
+   <clipPath id="c10">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="450ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c10)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s-``.`-*css#%%%%###%#sc*+++==+=`.*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,143)">
+   <clipPath id="c11">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="495ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c11)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c``=csc*++===+*ssc=-:--==--=-`-s#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,156)">
+   <clipPath id="c12">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="540ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c12)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@s-=***===-`:-=-*=`:=*====++=---:%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,169)">
+   <clipPath id="c13">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="585ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c13)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%***+cc*=++=+c**%s-:-*cccc*+*+:`+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,182)">
+   <clipPath id="c14">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="630ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c14)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@scccs#scs####cs#s*--=cssc=-=-`-#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,195)">
+   <clipPath id="c15">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="675ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c15)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%csccccs##%%s+*+-`:-+cc+---+s%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,208)">
+   <clipPath id="c16">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="720ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c16)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%##s*cssscc*++++-:--==----#@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,221)">
+   <clipPath id="c17">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="765ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c17)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@#*+**====+===-`:-::::c@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,234)">
+   <clipPath id="c18">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="810ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c18)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@#+=-=++++++++=-:::::#@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,247)">
+   <clipPath id="c19">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="855ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c19)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@%#***+=+***++=-::```:=#@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,260)">
+   <clipPath id="c20">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="900ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c20)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@@@@s+##*cc***+=-:``````:-**+s%@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,273)">
+   <clipPath id="c21">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="945ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c21)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@@@@@@@%%%%%%@@@@@@%#s*=.=@%%#sc****+==--++****+ .:=*cs#%@@@@@@%%%%%%%%@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,286)">
+   <clipPath id="c22">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="990ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c22)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@%%%%%@@@@@@@@%s*=-:`::`.-#%%%@%%s****cs###sc*+:       `:-=*s#%@@@@@@@@%%%@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,299)">
+   <clipPath id="c23">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1035ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c23)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@%@@@@@%%##s*=-`.  ..`:``.`c%%%%#*====-=+csscccc`......  .....`:-=+*cs#%@@@@@@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,312)">
+   <clipPath id="c24">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1080ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c24)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@@@@#c*+--:``.. .......`....`+%#s*+=. `.   `=csss+.......`.``````.......`:-*%@%@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,325)">
+   <clipPath id="c25">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1125ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c25)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@%%#-..............`...`.....+###ss##=.. :=*##s##=.....````..``````````.... =%%@@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,338)">
+   <clipPath id="c26">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1170ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c26)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@@%@c:`.```````......``````.`.-#%%#css:`. :+s%ss%c`....````..````````````.....c@%@@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,351)">
+   <clipPath id="c27">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1215ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c27)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@@%@#=:```:`````````````````.`.:*%%%sc:.:   -##cs%=.....```..````````````.`.   :#@%@@@@@@@@</text>
+  </g>
+  <g transform="translate(0,364)">
+   <clipPath id="c28">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1260ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c28)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@@%@s-:::```::`:``````````````.``+#%%s=::`   .#s*#s``...```.````````..`...`.     =%%%@@@@@@@</text>
+  </g>
+  <g transform="translate(0,377)">
+   <clipPath id="c29">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1305ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c29)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@%@%-::````.`::::`````````````.`.-s%%c-::`.  .##*#=`...```.```````...... ..     ..*@%@@@@@@@</text>
+  </g>
+  <g transform="translate(0,390)">
+   <clipPath id="c30">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1350ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c30)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@@%%+````````.:`:::```````````````.*%%*-::`....##c*``..```.```````...... ..        `#@%@@@@@@</text>
+  </g>
+  <g transform="translate(0,403)">
+   <clipPath id="c31">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1395ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c31)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@%%c`:```````.```:::``````````````.:##*:`````..##c:`..```.````....  ..   .          =@%@@@@@@</text>
+  </g>
+  <g transform="translate(0,416)">
+   <clipPath id="c32">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1440ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c32)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@@%@+`````````. .``````````````````` +%*```````.##=``.``..``.....        ..          `#@%@@@@@</text>
+  </g>
+  <g transform="translate(0,429)">
+   <clipPath id="c33">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1485ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c33)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@%@#`.``````:`.  ```````````````````..s*``:::`..#*:`.``..``.......       ...       .. =%%@@@@@</text>
+  </g>
+  <g transform="translate(0,442)">
+   <clipPath id="c34">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1530ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c34)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@%@+`:`..``:`.    ``````````````````` :*::::``..c:`.`` .``......         ...        ..`#@%@@@@</text>
+  </g>
+  <g transform="translate(0,455)">
+   <clipPath id="c35">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1575ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c35)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@%@%-:`..`::`..    .`````````````````:` :---:`...-```. .``.....           ....        ..*@%@@@@</text>
+  </g>
+  <g transform="translate(0,468)">
+   <clipPath id="c36">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1620ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c36)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@%@c````:::`...    .``````.```````````:` `=--:` `:``  .`....              ....         .:#@%@@@</text>
+  </g>
+  <g transform="translate(0,481)">
+   <clipPath id="c37">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1665ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c37)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%@%-```:::`...     .````````````````````. :-::``:`.  .....                .....         .*%%@@@</text>
+  </g>
+  <g transform="translate(0,494)">
+   <clipPath id="c38">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1710ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c38)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%%s:``::```...    .`.```..`.````:::``..``  :-``:`   ...                   ......         -#@%@@</text>
+  </g>
+  <g transform="translate(0,507)">
+   <clipPath id="c39">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1755ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c39)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%@*`:``..``...    .`..```.....``::::``....  :`:`  ...     .            .  ....           .c%%@@</text>
+  </g>
+  <g transform="translate(0,520)">
+   <clipPath id="c40">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1800ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c40)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@%@#:......``..     ``....````.....``::```..` .:.  ..   ....             .  ..              =%%@@</text>
+  </g>
+  <g transform="translate(0,533)">
+   <clipPath id="c41">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1845ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c41)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@%@#:.````````      .``..``..````````.``````..`.      ....               . ....   .          :#@%@</text>
+  </g>
+  <g transform="translate(0,546)">
+   <clipPath id="c42">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1890ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c42)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@%@s```.....        ``...````..```:::````````..     ...      ...         .         .....     .c@%@</text>
+  </g>
+  <g transform="translate(0,559)">
+   <clipPath id="c43">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1935ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c43)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@%@*...```. .      .```.````````````````````:` ......   .....      ...            .          .+%@@</text>
+  </g>
+  <g transform="translate(0,572)">
+   <clipPath id="c44">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="1980ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c44)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@%@#-`````...      .```.`.``````````````::::`. ............   ....`..         ........        -#%%</text>
+  </g>
+  <g transform="translate(0,585)">
+   <clipPath id="c45">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2025ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c45)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@%@+``````.....   .`:`````.````````:::::::`.................````..           ........       .:s%%</text>
+  </g>
+  <g transform="translate(0,598)">
+   <clipPath id="c46">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2070ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c46)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@%%s```````....   .``.`````````````::::``...``.........``````...             ........       .:c%%</text>
+  </g>
+  <g transform="translate(0,611)">
+   <clipPath id="c47">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2115ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c47)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%%=``````....   .:`..``````````::```.....```..............                ........       .`:c#%</text>
+  </g>
+  <g transform="translate(0,624)">
+   <clipPath id="c48">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2160ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c48)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%@#```````..  . .`.```````````````......```.:.  .......                   ........    . ..`-c##</text>
+  </g>
+  <g transform="translate(0,637)">
+   <clipPath id="c49">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2205ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c49)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%@s```........  .:``````````.```......``:`.:+:     ....                   ...  .      ...`:=cs#</text>
+  </g>
+  <g transform="translate(0,650)">
+   <clipPath id="c50">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2250ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c50)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@%%%=`...``.     .s*.```````..`.. ....```:.:++=`                      .:. . ...       ...`:=+*s#</text>
+  </g>
+  <g transform="translate(0,663)">
+   <clipPath id="c51">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2295ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c51)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@%@%`.........  `s%-.`.....      ..`````.-*++*=                     .=+`   ..  ..  ....`:=+*css</text>
+  </g>
+  <g transform="translate(0,676)">
+   <clipPath id="c52">
+    <rect x="0" y="0" width="0" height="13">
+     <animate attributeName="width" from="0" to="750.0"
+      begin="2340ms" dur="720ms" fill="freeze" />
+    </rect>
+   </clipPath>
+   <text clip-path="url(#c52)" x="0" y="10" fill="#c0c0c0"
+         font-family="monospace,Courier New,Courier" font-size="13">@@@@@@@%@+.`...`... .:s@s`.....     ...````..:s#ss##+.                 .:=++-`.         ...`:-=+*cs#</text>
+  </g>
+</svg>
