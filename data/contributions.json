@@ -2,41 +2,6 @@
   "username": "ThiagoIbrahimVieira",
   "days": [
     {
-      "date": "2025-10-05",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-06",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-07",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-08",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-09",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-10",
-      "level": 0,
-      "active": false
-    },
-    {
-      "date": "2025-10-11",
-      "level": 0,
-      "active": false
-    },
-    {
       "date": "2025-10-12",
       "level": 0,
       "active": false
@@ -1853,13 +1818,18 @@
     },
     {
       "date": "2026-10-10",
+      "level": 1,
+      "active": true
+    },
+    {
+      "date": "2026-10-11",
       "level": 0,
       "active": false
     }
   ],
-  "total": 248,
-  "current_streak": 76,
-  "longest_streak": 76,
+  "total": 249,
+  "current_streak": 77,
+  "longest_streak": 77,
   "best_day": {
     "date": "2026-07-21",
     "level": 4,
@@ -1878,6 +1848,6 @@
     "2026-07": 10,
     "2026-08": 31,
     "2026-09": 30,
-    "2026-10": 9
+    "2026-10": 10
   }
 }
