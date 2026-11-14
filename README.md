@@ -11,16 +11,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Estudante+de+TI;Full+Stack+Developer;Python+%7C+Java+%7C+TypeScript+%7C+C%2B%2B+%7C+Go;JavaScript+%7C+SQL+%7C+HTML%2FCSS+%7C+C%23;16+anos+%7C+Construindo+o+futuro" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=500&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Desenvolvedor+de+Software;T%C3%A9cnico+em+TI+%40+ETEC+de+Itapevi;TypeScript+%7C+Python+%7C+React+%7C+C%2B%2B+%7C+SQL;Intelig%C3%AAncia+Artificial+%26+Engenharia+Web;Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo" alt="Typing SVG">
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante_de_TI-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/São_Paulo,_Brazil-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/16_years_old-7C3AED?style=for-the-badge&logo=birthday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desenvolvedor_de_Software-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETEC_de_Itapevi-8B5CF6?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/São_Paulo,_Brasil-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
@@ -206,22 +206,24 @@ current_mission:
 
 ## 💼 Experience
 
-### Estudante de TI | Full Stack Developer
-**Autônomo / Projetos Pessoais** · *2024 – Presente*
+### Estudante Técnico em TI | Desenvolvedor de Software
+**Projetos Pessoais & Automações com IA** · *2024 – Presente*
 
-Desenvolvimento de aplicações web completas usando Python, Java, TypeScript e o ecossistema Full Stack. Foco em boas práticas de engenharia de software, arquitetura limpa e código de qualidade.
+Desenvolvimento de aplicações web completas e ferramentas com Inteligência Artificial utilizando TypeScript, Python, React e C++. Foco em código limpo, arquitetura desacoplada, inferência local e utilidade prática.
 
-- Desenvolvimento de projetos full stack do zero, incluindo backend (APIs REST) e frontend (React/TypeScript)
-- Automação de workflows com Python, GitHub Actions e shell scripting
-- Versionamento e colaboração com Git e GitHub
-- Exploração prática de Inteligência Artificial e Machine Learning
+- Construção de interfaces interativas e responsivas com React, TypeScript e Tailwind CSS
+- Desenvolvimento de ferramentas locais de IA com aceleração em GPU (Whisper, CUDA float16)
+- Automação de pipelines, bots e workflows com Node.js, Python e GitHub Actions
+- Modelagem de dados relacionais (SQL / brModelo) e integração de APIs REST
+- Versionamento rigoroso e engenharia de software com Git/GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-4C1D95?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-5B21B6?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br>
@@ -234,10 +236,10 @@ Desenvolvimento de aplicações web completas usando Python, Java, TypeScript e 
 
 | Recognition | Details |
 |-------------|---------|
-| 🎯 Perfil GitHub Premium | Profile README com ASCII animado, neofetch card e heatmap ao vivo — design terminal-style |
-| 📚 Full Stack em Progresso | Domínio prático de Python, Java, TypeScript e ecossistema web |
-| 🤖 AI/ML Explorer | Estudo ativo de Machine Learning, Deep Learning e NLP |
-| 🌟 Open Source Contributor | Contribuições e projetos open source no GitHub |
+| 🎯 Perfil Terminal Interativo | Profile README com ASCII animado, neofetch card e heatmap dinâmico |
+| ⚡ IA de Alta Performance | Motor Whisper local operando com aceleração em GPU via CUDA float16 |
+| 🗺️ Engenharia de Grafos | Visualizador de arquitetura de código com parsing 100% no client-side (CodeAtlas) |
+| 🌟 Open Source & Automações | Repositórios documentados e bots de automação no GitHub |
 
 <br>
 
@@ -245,13 +247,13 @@ Desenvolvimento de aplicações web completas usando Python, Java, TypeScript e 
 
 <br>
 
-## 📜 Certifications
+## 📜 Education & Core Training
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_(Em_andamento)-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Programming-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Web_Development-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-&_GitHub-5B21B6?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Técnico_em_Desenvolvimento_de_Sistemas-ETEC_Itapevi_(CPS)-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modelagem_Relacional_de_Dados-SQL_&_brModelo-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inteligência_Artificial_&_Voz-Whisper_CUDA-6D28D9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engenharia_Web_Moderna-React_&_TypeScript-5B21B6?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 <br>
@@ -260,20 +262,20 @@ Desenvolvimento de aplicações web completas usando Python, Java, TypeScript e 
 
 <br>
 
-## 💻 Coding Profiles
+## 🚀 Live Demos & Highlights
 
 <p align="center">
-  <a href="https://leetcode.com/ThiagoIbrahimVieira" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ThiagoIbrahimVieira-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://thiagoibrahimvieira.github.io/CodeAtlas/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-CodeAtlas_(GitHub_Pages)-7C3AED?style=for-the-badge&logo=reactflow&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/ThiagoIbrahimVieira" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-ThiagoIbrahimVieira-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Vercel-Online-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://hackerrank.com/ThiagoIbrahimVieira" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-ThiagoIbrahimVieira-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://github.com/ThiagoIbrahimVieira/interview-ai" target="_blank">
+    <img src="https://img.shields.io/badge/Project-InterviewAI-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://codechef.com/users/ThiagoIbrahimVieira" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-ThiagoIbrahimVieira-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://github.com/ThiagoIbrahimVieira/whatsappbot" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-WhatsApp_Bot-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
