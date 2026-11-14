@@ -27,7 +27,7 @@
   <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-ibrahim-branco-nardo-vieira-621443423/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-ibrahim-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thiagoibrahimvieira@gmail.com">
@@ -55,21 +55,22 @@
 ```yaml
 name: Thiago Ibrahim Vieira
 age: 16
-role: Estudante de TI
-location: São Paulo, Brazil
+education: Ensino Médio Técnico em Desenvolvimento de Sistemas @ ETEC de Itapevi (Centro Paula Souza)
+role: Desenvolvedor de Software & Estudante Técnico em TI
+location: São Paulo, Brasil
 
 engineering:
   philosophy: "Clean code first. Solve the problem, then optimize."
   focus:
-    - Full Stack Development
-    - AI / ML Engineering
-    - Product Engineering Mindset
+    - Engenharia Web & Full Stack (React, TypeScript, Node.js)
+    - IA Aplicada & Modelos Locais (Whisper, LLMs, Orquestração de Agentes)
+    - Lógica de Sistemas & Baixo Nível (C++, CUDA, SQL, Arquitetura)
 
 current_mission:
-  learning: Python, Java, JavaScript, TypeScript, C, C++, C#, Go, SQL, HTML/CSS, Full Stack
-  building: Projetos que resolvem problemas reais
-  exploring: Inteligência Artificial e Machine Learning
-  open_to: Estágios, colaborações open source, projetos desafiadores
+  stack_core: TypeScript, JavaScript, Python, C++, SQL, React, Node.js
+  building: Ferramentas de IA que resolvem problemas reais e economizam tempo
+  exploring: Inferência acelerada em GPU (CUDA float16), grafos de código (ASTs) e agentes autônomos
+  open_to: Estágio em Desenvolvimento de Software / Inteligência Artificial (Remoto ou SP)
 ```
 
 <p align="center">
@@ -89,15 +90,15 @@ current_mission:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,cpp,cs,go,rust,kotlin,swift,php,ruby,scala,dart,html,css,react,nodejs,spring,flask,django,mysql,postgres,mongodb,docker,git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,c,postgres,mysql,react,tailwind,nodejs,docker,git,github,linux,vscode" />
 </p>
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-4C1D95?style=flat-square&logo=c&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-8B5CF6?style=flat-square&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-6D28D9?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-5B21B6?style=flat-square&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-4C1D95?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-7C3AED?style=flat-square&logo=swift&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-4C1D95?style=flat-square&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-8B5CF6?style=flat-square&logo=ruby&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-6D28D9?style=flat-square&logo=dart&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-5B21B6?style=flat-square&logo=scala&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5B21B6?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-8B5CF6?style=flat-square&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-5B21B6?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-6D28D9?style=flat-square&logo=mongodb&logoColor=white) |
-| **Cloud, DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-5B21B6?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=vscode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-8B5CF6?style=flat-square&logo=postman&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-5B21B6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-4C1D95?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-5B21B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-6D28D9?style=flat-square&logo=threedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-5B21B6?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/FastAPI_/_Flask-8B5CF6?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white) ![brModelo](https://img.shields.io/badge/brModelo-5B21B6?style=flat-square) |
+| **AI, Cloud & Tools** | ![CUDA](https://img.shields.io/badge/CUDA_GPU-7C3AED?style=flat-square&logo=nvidia&logoColor=white) ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6D28D9?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-5B21B6?style=flat-square&logo=linux&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-7C3AED?style=flat-square&logo=vitest&logoColor=white) |
 
 <br>
 
@@ -123,39 +124,77 @@ current_mission:
 
 ## 📌 Featured Projects
 
-<details>
-<summary><b>📊 GitHub Profile ASCII Art + Neofetch + Live Heatmap</b></summary>
+<details open>
+<summary><b>🗺️ CodeAtlas — Visualizador Interativo de Arquitetura & ASTs</b></summary>
 <br>
 
-> Terminal-themed animated GitHub profile with self-typing ASCII portrait, neofetch info card, and live contribution heatmap — all pure SVG, zero JavaScript.
+> Visualizador de dependências e métricas de acoplamento para projetos JavaScript e TypeScript, com parsing 100% *client-side* no navegador.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Python, Pillow, OpenCV, BeautifulSoup, SMIL SVG |
-| **Scale** | 3 animated SVGs, 1 auto-updating daily via GitHub Actions |
-| **Performance** | <1s load — static SVGs committed directly to repo |
-| **Security** | Zero third-party API calls, zero tokens, zero JavaScript |
-| **Impact** | Professional portfolio presence, recruiter-friendly terminal aesthetic |
-| **Repository** | [github.com/ThiagoIbrahimVieira/ThiagoIbrahimVieira](https://github.com/ThiagoIbrahimVieira/ThiagoIbrahimVieira) |
-
-**What makes this project unique:** A self-contained pipeline that transforms a profile photo into monochrome ASCII art with row-by-row typing animation, generates a neofetch-style info card with staggered fade-in, and scrapes public GitHub contributions (no token needed) to render an animated heatmap that auto-refreshes daily via GitHub Actions cron. All motion lives inside SVG — no JavaScript, no external services, no broken image icons.
+| **Stack** | TypeScript, React 19, @xyflow/react, AST Parsers, Tailwind CSS |
+| **Arquitetura** | Processamento 100% no navegador (zero envio de código para servidores externos) |
+| **Features** | Detecção de ciclos de importação, nós semânticos, filtros de acoplamento e métricas de complexidade |
+| **Live Demo** | [thiagoibrahimvieira.github.io/CodeAtlas](https://thiagoibrahimvieira.github.io/CodeAtlas/) |
+| **Repository** | [github.com/ThiagoIbrahimVieira/CodeAtlas](https://github.com/ThiagoIbrahimVieira/CodeAtlas) |
 
 </details>
 
 <details>
-<summary><b>🚀 Full Stack Web Application</b></summary>
+<summary><b>🎙️ InterviewAI — Simulador de Entrevistas Técnicas com IA & Voz</b></summary>
 <br>
 
-> Full-featured web application demonstrating modern full stack architecture patterns.
+> Plataforma fullstack para treino de entrevistas com IA em tempo real, reconhecimento de voz contínuo e analytics de performance.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Python, Java, TypeScript, React, Node.js, PostgreSQL |
-| **Scale** | Monorepo with separate frontend/backend services |
-| **Performance** | Optimized query patterns, lazy loading, CDN-ready |
-| **Security** | JWT auth, input validation, CORS, environment-based secrets |
-| **Impact** | Portfolio centerpiece demonstrating end-to-end development |
-| **Repository** | [github.com/ThiagoIbrahimVieira](https://github.com/ThiagoIbrahimVieira) |
+| **Stack** | Python, Web Speech API, JWT Auth, Puter.js, HTML5/CSS3 |
+| **Features** | Reconhecimento de voz em tempo real, personas de entrevistador (Big Tech, Startups), avaliação automática de respostas e dashboard histórico |
+| **Segurança** | Autenticação completa via tokens JWT (access + refresh), rotas protegidas |
+| **Repository** | [github.com/ThiagoIbrahimVieira/interview-ai](https://github.com/ThiagoIbrahimVieira/interview-ai) |
+
+</details>
+
+<details>
+<summary><b>⚡ Wasper — Motor de Voz Whisper Local Acelerado em GPU (CUDA)</b></summary>
+<br>
+
+> Sistema de ditado rápido Push-to-Talk operando 100% offline em GPU GTX 1650 com modelo Whisper `large-v3-turbo` em precisão `float16`.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python, CUDA (PyTorch/Faster-Whisper), PySide6 (Liquid Glass UI), Win32 API |
+| **Arquitetura** | Two-pass streaming: amostragem ultra-rápida preliminar e refinamento semântico atômico |
+| **Baixo Nível** | Interceptação em nível de driver Win32 (`WH_MOUSE_LL`), limpeza de disfluências em <1ms e zero I/O de disco |
+| **Performance** | Inferência local em GPU sem envio de áudio para a nuvem e preservação do clipboard |
+
+</details>
+
+<details>
+<summary><b>🤖 WhatsApp Auto Sticker — Bot Assíncrono com Processamento de Mídia</b></summary>
+<br>
+
+> Bot para WhatsApp Web em TypeScript com pipeline de conversão de imagens, vídeos e GIFs em tempo real.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Node.js, TypeScript, Baileys, Sharp, FFmpeg, Zod, Vitest |
+| **Arquitetura** | Controle de concorrência com fila em memória, sanitização de arquivos e testes automatizados |
+| **Repository** | [github.com/ThiagoIbrahimVieira/whatsappbot](https://github.com/ThiagoIbrahimVieira/whatsappbot) |
+
+</details>
+
+<details>
+<summary><b>🛍️ Click & Cell — E-Commerce & Catálogo com Renderização 3D</b></summary>
+<br>
+
+> Plataforma web de catálogo e orçamentos para eletrônicos e assistência técnica com componentes visuais 3D.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | React, TypeScript, Three.js, Tailwind CSS |
+| **Features** | Visualização interativa 3D de modelos, layout responsivo mobile-first e checkout ágil |
+| **Repository** | [github.com/ThiagoIbrahimVieira/Click-Cell](https://github.com/ThiagoIbrahimVieira/Click-Cell) |
 
 </details>
 
@@ -308,28 +347,27 @@ Desenvolvimento de aplicações web completas usando Python, Java, TypeScript e 
 
 ```yaml
 learning:
-  - Machine Learning & Deep Learning
-  - Spring Boot & Java Enterprise
-  - Advanced TypeScript Patterns
-  - Cloud Architecture (AWS)
+  - IA Aplicada & Modelos Locais (Whisper, LLMs, Agentes)
+  - Engenharia de Software Moderna (TypeScript, Node.js, React)
+  - Banco de Dados Relacional & Modelagem (SQL, brModelo)
+  - Arquitetura de Sistemas & Baixo Nível (C++, CUDA)
 
 building:
-  - Full Stack Application Portfolio
-  - AI-powered side projects
-  - Open source contributions
-  - GitHub profile ecosystem
+  - CodeAtlas (Visualizador de arquitetura e ASTs no navegador)
+  - InterviewAI (Simulador de entrevistas com IA e reconhecimento de voz)
+  - Wasper (Motor Whisper local em GPU via CUDA float16)
+  - WhatsApp Auto Sticker (Automação assíncrona de mídias)
 
 exploring:
-  - LLMs & NLP
-  - Computer Vision
-  - System Design
-  - DevOps & CI/CD
+  - Orquestração de Agentes Autônomos (MCP, Claude, Gemini)
+  - Inferência acelerada em hardware local (CUDA)
+  - AST Parsers e grafos interativos de dependências
+  - Oportunidades de estágio em tecnologia e IA
 
 open_to:
-  - Internships (Summer 2027)
-  - Junior Developer Roles
-  - Open Source Collaborations
-  - Hackathons & Coding Competitions
+  - Estágio em Desenvolvimento de Software / TI (Imediato / 2026 - 2027)
+  - Posições de IA Aplicada & Full Stack
+  - Colaborações Open Source & Desafios Técnicos
 ```
 
 <br>
@@ -344,8 +382,8 @@ open_to:
   <a href="mailto:thiagoibrahimvieira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ThiagoIbrahimVieira@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-ibrahim-branco-nardo-vieira-621443423/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ThiagoIbrahimVieira-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/thiago-ibrahim-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-thiago--ibrahim--dev-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ThiagoIbrahimVieira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ThiagoIbrahimVieira-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
