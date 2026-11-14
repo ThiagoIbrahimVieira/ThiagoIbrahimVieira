@@ -168,20 +168,6 @@ current_mission:
 
 </details>
 
-<details>
-<summary><b>🛍️ Click & Cell — Catálogo & Vitrine Web para Assistência Técnica</b></summary>
-<br>
-
-> Interface web para catálogo de eletrônicos, serviços e orçamentos de assistência técnica com layout responsivo.
-
-| Atributo | Detalhes |
-|---|---|
-| **Stack** | React, TypeScript, Tailwind CSS |
-| **Status** | Repositório aberto em desenvolvimento ativo |
-| **Repositório** | [github.com/ThiagoIbrahimVieira/Click-Cell](https://github.com/ThiagoIbrahimVieira/Click-Cell) |
-
-</details>
-
 > 🔬 **Em Laboratório Local:** Projeto *Wasper* (motor de ditado Whisper local acelerado em GPU via CUDA float16 e Win32) operando em testes na máquina local, em preparação para publicação open source no GitHub.
 
 <br>
@@ -257,58 +243,10 @@ Foco no aprendizado sólido dos fundamentos da computação e na criação de ap
 
 <br>
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas de Consistência
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoIbrahimVieira&show_icons=true&theme=react&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0&border_color=7C3AED&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoIbrahimVieira&layout=compact&theme=react&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&border_color=7C3AED&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ThiagoIbrahimVieira&theme=react&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=E2E8F0&sideNums=E2E8F0&border=7C3AED&hide_border=true" />
-</p>
-
-<br>
-
----
-
-<br>
-
-## 🏅 Troféus do GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ThiagoIbrahimVieira&theme=onedark&column=8&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title_color=A855F7&icon_color=8B5CF6&text_color=E2E8F0" />
-  </a>
-</p>
-
-<br>
-
----
-
-<br>
-
-## 📊 Atividade de Contribuições
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoIbrahimVieira&bg_color=0D1117&color=A855F7&line=8B5CF6&point=6D28D9&area=true&area_color=7C3AED&hide_border=true" />
-  </a>
-</p>
-
-<br>
-
----
-
-<br>
-
-## 🐍 Gráfico Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoIbrahimVieira/ThiagoIbrahimVieira/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/ThiagoIbrahimVieira/ThiagoIbrahimVieira/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ThiagoIbrahimVieira&theme=react&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=E2E8F0&sideNums=E2E8F0&border=7C3AED&hide_border=true" />
 </p>
 
 <br>
