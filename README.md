@@ -197,7 +197,7 @@ Foco no aprendizado sólido dos fundamentos da computação e na criação de ap
   <img src="https://img.shields.io/badge/C%2B%2B-4C1D95?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white" />
-</p>
+</p>\
 
 <br>
 
@@ -272,7 +272,7 @@ projetos_ativos:
 
 aberto_para:
   - Estágio em Desenvolvimento de Software / TI / Jovem Aprendiz
-  - Oportunidades Remotas, Híbridas ou Presenciais na Grande SP
+  - Oportunidades Remotas ou Híbridas na região de Itapevi e Zona Oeste da Grande SP
   - Colaborações Open Source & Aprendizado Contínuo
 ```
 
