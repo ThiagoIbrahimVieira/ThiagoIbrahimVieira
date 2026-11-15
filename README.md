@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
+  <a href="https://portifolio-thiago-ibrahim.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/thiago-ibrahim-dev/" target="_blank">
@@ -125,17 +125,17 @@ current_mission:
 </details>
 
 <details open>
-<summary><b>🌐 Developer Portfolio — Portfólio Pessoal & Showcase Técnico</b></summary>
+<summary><b>🌐 Portfólio Thiago Ibrahim — Showcase Técnico & Projetos Interativos</b></summary>
 <br>
 
-> Portfólio responsivo moderno com showcase interativo de projetos, informações de formação e contato profissional.
+> Portfólio responsivo moderno de alta performance com animações fluidas, showcase interativo de projetos, métricas e contato profissional.
 
 | Atributo | Detalhes |
 |---|---|
-| **Stack** | TypeScript, React, Tailwind CSS, Vercel |
-| **Arquitetura** | Deploy contínuo, interface mobile-first, performance otimizada e acessibilidade |
-| **Live Demo** | [developer-portfolio-roan-two.vercel.app](https://developer-portfolio-roan-two.vercel.app/) |
-| **Repositório** | [github.com/ThiagoIbrahimVieira/developer-portfolio](https://github.com/ThiagoIbrahimVieira/developer-portfolio) |
+| **Stack** | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4, Framer Motion, Lenis |
+| **Arquitetura** | Deploy contínuo na Vercel, interface mobile-first fluida, smooth scrolling e acessibilidade |
+| **Live Demo** | [portifolio-thiago-ibrahim.vercel.app](https://portifolio-thiago-ibrahim.vercel.app/) |
+| **Repositório** | [github.com/ThiagoIbrahimVieira/portfolio](https://github.com/ThiagoIbrahimVieira/portfolio) |
 
 </details>
 
@@ -226,7 +226,7 @@ Foco no aprendizado sólido dos fundamentos da computação e na criação de ap
   <a href="https://thiagoibrahimvieira.github.io/CodeAtlas/" target="_blank">
     <img src="https://img.shields.io/badge/Live_App-CodeAtlas_(GitHub_Pages)-7C3AED?style=for-the-badge&logo=reactflow&logoColor=white" />
   </a>
-  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
+  <a href="https://portifolio-thiago-ibrahim.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Vercel_Live-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ThiagoIbrahimVieira/interview-ai" target="_blank">
@@ -266,7 +266,7 @@ aprendizado_ativo:
 
 projetos_ativos:
   - CodeAtlas (Visualizador de arquitetura e ASTs no navegador - Live Demo disponível)
-  - Developer Portfolio (Portfólio interativo com deploy contínuo na Vercel)
+  - Portfólio Pessoal (Showcase de projetos com Next.js 16, React 19 e Vercel)
   - InterviewAI (Simulador de entrevistas técnicas com IA e reconhecimento de voz)
   - WhatsApp Auto Sticker (Automação assíncrona de mídias com Baileys e Vitest)
 
@@ -294,8 +294,8 @@ aberto_para:
   <a href="https://github.com/ThiagoIbrahimVieira" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ThiagoIbrahimVieira-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://developer-portfolio-roan-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thiagoibrahimvieira.dev-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://portifolio-thiago-ibrahim.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-portifolio--thiago--ibrahim-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
