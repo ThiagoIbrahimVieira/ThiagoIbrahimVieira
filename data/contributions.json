@@ -1823,11 +1823,11 @@
     },
     {
       "date": "2026-11-15",
-      "level": 2,
+      "level": 3,
       "active": true
     }
   ],
-  "total": 354,
+  "total": 358,
   "current_streak": 113,
   "longest_streak": 113,
   "best_day": {
