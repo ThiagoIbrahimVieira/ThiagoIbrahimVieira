@@ -54,7 +54,7 @@
 
 ```yaml
 name: Thiago Ibrahim Vieira
-age: 16
+age: 15
 education: Ensino Médio Técnico em Desenvolvimento de Sistemas @ ETEC de Itapevi (Centro Paula Souza)
 role: Desenvolvedor de Software & Estudante Técnico em TI
 location: Itapevi / Grande São Paulo, Brasil
@@ -122,6 +122,22 @@ current_mission:
 ## 📌 Projetos em Destaque no GitHub
 
 <details open>
+<summary><b>⚡ OpenCRM — Plataforma SaaS Multi-Tenant Metadata-Driven</b></summary>
+<br>
+
+> Plataforma SaaS multi-tenant orientada a metadados em produção na Vercel com isolamento estrito de dados via PostgreSQL 17 RLS no Supabase e conformidade nativa com a LGPD.
+
+| Atributo | Detalhes |
+|---|---|
+| **Stack** | React 19, TypeScript, Fastify, Supabase, PostgreSQL 17, Tailwind CSS v4, Vercel |
+| **Arquitetura** | Serverless Fastify em Node.js 22, Row Level Security (RLS) mandatório no Supabase e zero-mock isolation |
+| **Segurança & AppSec** | Blind Index HMAC-SHA256 para buscas exatas e cifra AES-256-GCM para dados sensíveis sob a LGPD |
+| **Live Demo** | [opencrm-ashy.vercel.app](https://opencrm-ashy.vercel.app/) |
+| **Repositório** | [github.com/ThiagoIbrahimVieira/opencrm](https://github.com/ThiagoIbrahimVieira/opencrm) |
+
+</details>
+
+<details open>
 <summary><b>🗺️ CodeAtlas — Visualizador Interativo de Arquitetura & ASTs</b></summary>
 <br>
 
@@ -181,7 +197,19 @@ current_mission:
 
 </details>
 
-> 🔬 **Em Laboratório Local:** Projeto *Wasper* (motor de ditado Whisper local acelerado em GPU via CUDA float16 e Win32) operando em testes na máquina local, em preparação para publicação open source no GitHub.
+<details>
+<summary><b>⚡ Wasper — Motor de Ditado por Voz Push-to-Talk 100% Local</b></summary>
+<br>
+
+> Motor de ditado por voz push-to-talk ultra-rápido rodando local e offline no Windows com Whisper large-v3-turbo acelerado por GPU via CUDA float16.
+
+| Atributo | Detalhes |
+|---|---|
+| **Stack** | Python, Whisper large-v3-turbo, PySide6, CUDA float16, Win32 API |
+| **Arquitetura** | 100% offline no Windows, streaming two-pass e consumo de ~1.8 GB VRAM na GPU |
+| **Repositório** | [github.com/ThiagoIbrahimVieira/wasper](https://github.com/ThiagoIbrahimVieira/wasper) |
+
+</details>
 
 <br>
 
@@ -236,6 +264,9 @@ Foco no aprendizado sólido dos fundamentos da computação e na criação de ap
 ## 🚀 Demos Online & Acessos Diretos
 
 <p align="center">
+  <a href="https://opencrm-ashy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_SaaS-OpenCRM_(Vercel_Live)-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://thiagoibrahimvieira.github.io/CodeAtlas/" target="_blank">
     <img src="https://img.shields.io/badge/Live_App-CodeAtlas_(GitHub_Pages)-7C3AED?style=for-the-badge&logo=reactflow&logoColor=white" />
   </a>
