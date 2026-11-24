@@ -1830,9 +1830,14 @@
       "date": "2026-11-23",
       "level": 1,
       "active": true
+    },
+    {
+      "date": "2026-11-24",
+      "level": 0,
+      "active": false
     }
   ],
-  "total": 618,
+  "total": 621,
   "current_streak": 126,
   "longest_streak": 126,
   "best_day": {
